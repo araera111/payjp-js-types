@@ -100,7 +100,6 @@ declare namespace PayjpJs {
 			name: string;
 			email: string;
 			phone: string;
-			tenant: string;
 		}>;
 		three_d_secure?: boolean;
 		tenant?: string;
