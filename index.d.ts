@@ -103,6 +103,7 @@ declare namespace PayjpJs {
 			tenant: string;
 		}>;
 		three_d_secure?: boolean;
+		tenant?: string;
 	};
 
 	export interface Payjp {
